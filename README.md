@@ -1,27 +1,9 @@
 ### Hi there 👋
 
-<!--
-**rviano96/rviano96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 👋 Hi, I’m Rodrigo Viano, I'm a 25yo software engineer, I've almost 2 years of experience working as a web developer mainly using Angular 2+, reactjs and nodejs
+- 👋 Hi, I’m Rodrigo Viano, I'm a 25yo software engineer, I've almost 2 years of experience working as a web developer mainly using Angular 2+, React and NodeJS
 - :brain: I have knowledge in python, java, angular, nodejs, react, c/c++/c#, pentaho, hive, hadoop, sqoop, mySql, tensorflow, keras, unity, solidity and node-red
 - 🌱 I’m currently learning new technologies related to data analysis, machine learning, big data, etc, to become a  data engineer
 - 👯 I’m looking to collaborate on any kind of project (the most related to data analysis the better)
 - 💬 I speak Spanish, French and English, looking forward to learn German.
 - You can find all my repositories (personal and college-related) here -> https://github.com/rviano96?tab=repositories
-<!---
-rviano/rviano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
