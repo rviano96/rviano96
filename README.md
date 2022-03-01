@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I’m Rodrigo Viano, I'm a 25yo software engineer, I've almost 2 years of experience working as a web developer mainly using Angular 2+
+- 👋 Hi, I’m Rodrigo Viano, I'm a 25yo software engineer, I've almost 2 years of experience working as a web developer mainly using Angular 2+, reactjs and nodejs
 - :brain: I have knowledge in python, java, angular, nodejs, react, c/c++/c#, pentaho, hive, hadoop, sqoop, mySql, tensorflow, keras, unity, solidity and node-red
 - 🌱 I’m currently learning new technologies related to data analysis, machine learning, big data, etc, to become a  data engineer
 - 👯 I’m looking to collaborate on any kind of project (the most related to data analysis the better)
